@@ -11,6 +11,7 @@
 		FA9297DB279C7CF000856A4B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA9297DA279C7CF000856A4B /* ContentView.swift */; };
 		FA9297DD279C7CF300856A4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA9297DC279C7CF300856A4B /* Assets.xcassets */; };
 		FA9297E0279C7CF300856A4B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA9297DF279C7CF300856A4B /* Preview Assets.xcassets */; };
+		FA9297E7279C7DD200856A4B /* ColoredCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA9297E6279C7DD200856A4B /* ColoredCircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FA9297DA279C7CF000856A4B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FA9297DC279C7CF300856A4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA9297DF279C7CF300856A4B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FA9297E6279C7DD200856A4B /* ColoredCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColoredCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				FA9297D8279C7CF000856A4B /* HW_3_1App.swift */,
 				FA9297DA279C7CF000856A4B /* ContentView.swift */,
+				FA9297E6279C7DD200856A4B /* ColoredCircleView.swift */,
 				FA9297DC279C7CF300856A4B /* Assets.xcassets */,
 				FA9297DE279C7CF300856A4B /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA9297DB279C7CF000856A4B /* ContentView.swift in Sources */,
+				FA9297E7279C7DD200856A4B /* ColoredCircleView.swift in Sources */,
 				FA9297D9279C7CF000856A4B /* HW_3_1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
